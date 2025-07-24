@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="23.05.0.0">
+<procedure name="main">
+<interface/>
+<body>
+<c>*读取图像*</c>
+<l>read_image (image, 'C:/Users/Administrator/Desktop/文档管理/haikang02.png')</l>
+<c></c>
+<l>low1:=128</l>
+<l>calcThresholdRegionArea (image, Region, low1, Area, Row, Column)</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+<procedure name="calcThresholdRegionArea">
+<interface>
+<io>
+<par name="image" base_type="iconic" dimension="0"/>
+</io>
+<oo>
+<par name="Region" base_type="iconic" dimension="0"/>
+</oo>
+<ic>
+<par name="low" base_type="ctrl" dimension="0"/>
+</ic>
+<oc>
+<par name="Area" base_type="ctrl" dimension="0"/>
+<par name="Row" base_type="ctrl" dimension="0"/>
+<par name="Column" base_type="ctrl" dimension="0"/>
+</oc>
+</interface>
+<body>
+<l>low:=128</l>
+<l>threshold(image,Region,low,255)</l>
+<l>area_center(Region,Area,Row,Column)</l>
+<l>return ()</l>
+</body>
+<docu id="calcThresholdRegionArea">
+<parameters>
+<parameter id="Area"/>
+<parameter id="Column"/>
+<parameter id="Region"/>
+<parameter id="Row"/>
+<parameter id="image"/>
+<parameter id="low"/>
+</parameters>
+</docu>
+</procedure>
+</hdevelop>

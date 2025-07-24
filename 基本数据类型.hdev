@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="23.05.0.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>height:=55</l>
+<l>width:=55</l>
+<l>name:='liuyan'</l>
+<c>*tuple元组</c>
+<l>test:=[1,2,3,4]</l>
+<l>test[1]:=6</l>
+<l>test:=[test,test]</l>
+<l>tuple_concat(test,test,testout)</l>
+<c></c>
+<l>len:=|testout|</l>
+<l>tuple_length(testout,leng)</l>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>
