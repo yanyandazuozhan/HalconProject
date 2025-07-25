@@ -30,7 +30,8 @@
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-07-25T02:47:54.35Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
               "ToolTip": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T02:48:24.477Z",
               "EditorCaption": ""
