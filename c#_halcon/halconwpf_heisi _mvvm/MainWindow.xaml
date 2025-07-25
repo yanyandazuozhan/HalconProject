@@ -29,12 +29,6 @@
                    Command="{Binding RgbToGrayCommand}" HorizontalAlignment="Left" VerticalAlignment="Center" ></Button>
             <Button x:Name="threshold" Style="{DynamicResource NewRowBtnStyle}" Width="126" Height="56" Canvas.Left="15" Canvas.Top="198" Content="阈值提取"
                     Command="{Binding ThreSholdCommand}" HorizontalAlignment="Center" VerticalAlignment="Center" ></Button>
-            <!--<ComboBox Style="{DynamicResource SizeComboBox}" HorizontalAlignment="Left" Height="23" VerticalAlignment="Center" Width="126" Canvas.Left="16" Canvas.Top="22" >
-                <ComboBoxItem>1</ComboBoxItem>
-                <ComboBoxItem>2</ComboBoxItem>
-                <ComboBoxItem>3</ComboBoxItem>
-                <ComboBoxItem>4</ComboBoxItem>
-            </ComboBox>-->
             <Label Content="步骤：" FontSize="11" Width="124" Height="26" Canvas.Left="17" Canvas.Top="20" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
             <Label Content="阈值左侧" Height="30" Width="69" Canvas.Left="9" Canvas.Top="264" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
             <Label Content="阈值右侧" Height="25" Width="65" Canvas.Left="85" Canvas.Top="265" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
