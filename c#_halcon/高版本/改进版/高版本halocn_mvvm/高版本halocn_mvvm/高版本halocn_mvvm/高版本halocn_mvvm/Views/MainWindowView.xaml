@@ -1,0 +1,83 @@
+﻿<Window
+    x:Class="高版本halocn_mvvm.MainWindowView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:halcon="clr-namespace:HalconDotNet;assembly=halcondotnet"
+    xmlns:local="clr-namespace:高版本halocn_mvvm"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:prism="http://prismlibrary.com/"
+    xmlns:viewmodel="clr-namespace:高版本halocn_mvvm"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    d:DataContext="{d:DesignInstance viewmodel:MainWindowViewModel}"
+    prism:ViewModelLocator.AutoWireViewModel="True"
+    mc:Ignorable="d">
+    <Window.Resources>
+        <ResourceDictionary Source="/style/Dictionary1.xaml" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <halcon:HWindowControlWPF x:Name="HWin" />
+        </Grid>
+        <Canvas Grid.Column="1">
+            <Button
+                Canvas.Left="16"
+                Canvas.Top="62"
+                Width="126"
+                Height="56"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Command="{Binding initCommand}"
+                Content="初 始 化"
+                Style="{DynamicResource NewRowBtnStyle}" />
+            <Button
+                x:Name="rgb_gray"
+                Canvas.Left="15"
+                Canvas.Top="131"
+                Width="126"
+                Height="56"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Command="{Binding RgbToGrayCommand}"
+                Content="彩变灰"
+                Style="{DynamicResource NewRowBtnStyle}" />
+            <Button
+                x:Name="threshold"
+                Canvas.Left="15"
+                Canvas.Top="198"
+                Width="126"
+                Height="56"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Command="{Binding ThreSholdCommand}"
+                Content="阈值提取"
+                Style="{DynamicResource NewRowBtnStyle}" />
+            <ComboBox
+                Canvas.Left="16"
+                Canvas.Top="22"
+                Width="126"
+                Height="23"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Style="{DynamicResource SizeComboBox}">
+                <ComboBoxItem>1</ComboBoxItem>
+                <ComboBoxItem>2</ComboBoxItem>
+                <ComboBoxItem>3</ComboBoxItem>
+                <ComboBoxItem>4</ComboBoxItem>
+            </ComboBox>
+            <TextBox
+                Canvas.Left="17"
+                Canvas.Top="287"
+                Width="126"
+                Height="69"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top" />
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,72 @@
+E:\c#project\machine_vision\halconwpf01\halconwpf01\bin\x64\Debug\halconwpf01.exe.config
+E:\c#project\machine_vision\halconwpf01\halconwpf01\bin\x64\Debug\halconwpf01.exe
+E:\c#project\machine_vision\halconwpf01\halconwpf01\bin\x64\Debug\halconwpf01.pdb
+E:\c#project\machine_vision\halconwpf01\halconwpf01\bin\x64\Debug\halcondotnet.dll
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.csproj.AssemblyReference.cache
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\style\Dictionary1.baml
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\MainWindow.g.cs
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\App.g.cs
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01_MarkupCompile.cache
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01_MarkupCompile.lref
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\MainWindow.baml
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.g.resources
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.Properties.Resources.resources
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.csproj.GenerateResource.cache
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.csproj.CoreCompileInputs.cache
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.csproj.CopyComplete
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.exe
+E:\c#project\machine_vision\halconwpf01\halconwpf01\obj\x64\Debug\halconwpf01.pdb
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.csproj.AssemblyReference.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\style\Dictionary1.baml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\MainWindow.g.cs
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\App.g.cs
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01_MarkupCompile.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01_MarkupCompile.lref
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.exe
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.pdb
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\halconwpf01.exe.config
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\halconwpf01.exe
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\halconwpf01.pdb
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\halcondotnet.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\MainWindow.baml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.g.resources
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.Properties.Resources.resources
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.csproj.GenerateResource.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.csproj.CoreCompileInputs.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwp.B781EB40.Up2Date
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\Prism.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\Prism.Wpf.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\Prism.xml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\bin\x64\Debug\Prism.Wpf.xml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi\obj\x64\Debug\halconwpf01.exe.config
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\halconwpf01.exe.config
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\halconwpf01.exe
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\halconwpf01.pdb
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\halcondotnet.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\Prism.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\Prism.Wpf.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\System.Windows.Interactivity.dll
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\Prism.xml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\bin\x64\Debug\Prism.Wpf.xml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.csproj.AssemblyReference.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.exe.config
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\style\Dictionary1.baml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\MainWindow.g.cs
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\App.g.cs
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01_MarkupCompile.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01_MarkupCompile.lref
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\MainWindow.baml
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.g.resources
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.Properties.Resources.resources
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.csproj.GenerateResource.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.csproj.CoreCompileInputs.cache
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwp.B781EB40.Up2Date
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.exe
+D:\liuyan\project\HalconProject\c#_halcon\halconwpf_heisi _mvvm\obj\x64\Debug\halconwpf01.pdb

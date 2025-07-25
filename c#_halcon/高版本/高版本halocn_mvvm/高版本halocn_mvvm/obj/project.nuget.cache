@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oB8gcTS4xEo=",
+  "success": true,
+  "projectFilePath": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\halcondotnet\\19.11.0\\halcondotnet.19.11.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.7\\microsoft.win32.systemevents.9.0.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.122\\microsoft.xaml.behaviors.wpf.1.1.122.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\prism.container.abstractions\\9.0.106\\prism.container.abstractions.9.0.106.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\prism.core\\9.0.537\\prism.core.9.0.537.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\prism.events\\9.0.537\\prism.events.9.0.537.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\prism.wpf\\9.0.537\\prism.wpf.9.0.537.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.drawing.common\\9.0.7\\system.drawing.common.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

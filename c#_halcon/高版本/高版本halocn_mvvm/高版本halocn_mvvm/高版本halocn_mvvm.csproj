@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModel\" />
+    <Folder Include="style\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HalconDotNet" Version="19.11.0" />
+    <PackageReference Include="Prism.Wpf" Version="9.0.537" />
+    <PackageReference Include="System.Drawing.Common" Version="9.0.7" />
+  </ItemGroup>
+
+</Project>

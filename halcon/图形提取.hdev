@@ -3,9 +3,17 @@
 <procedure name="main">
 <interface/>
 <body>
-<c> </c>
-<l>read_image (Heisi, 'C:/Users/Administrator/Desktop/作品/heisi.png')</l>
+<l>read_image (Heisi, 'D:/Desktop/文档记录/heisi.png')</l>
+<c>*彩图转换为灰度图</c>
 <l>rgb1_to_gray(Heisi,grayimg)</l>
+<c>*阈值/灰度提取</c>
+<l>threshold (grayimg, Regions, 0, 114)</l>
+<c>*对阈值分割后的区域进行连通性分析，将相互独立的连通区域分开。</c>
+<l>connection(Regions,connctrs)</l>
+<c>*</c>
+<l>select_shape(connctrs,result,'area','and',1000,30000)</l>
+<l>union1(result,RegionUnion)</l>
+<l>reduce_domain(Heisi,RegionUnion,final)</l>
 </body>
 <docu id="main">
 <parameters/>
