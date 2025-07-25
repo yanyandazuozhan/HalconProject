@@ -29,7 +29,7 @@ namespace halconwpf01.ViewModel
         {
             HOperatorSet.ReadImage(out ho_Heisi, "D:/Desktop/文档记录/heisi.png");
             HOperatorSet.GetImageSize(ho_Heisi, out var width, out var height);
-            halconControl.HalconWindow.SetPart(0, 0, height.D, width.D);//:“HALCON error #2453: HALCON handle is NULL in operator set_part”
+            halconControl.HalconWindow.SetPart(0, 0, height.D, width.D);
             halconControl.HalconWindow.DispObj(ho_Heisi);
         }
         private void RgbToGrayMethod()
