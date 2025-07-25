@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="23.05.0.0">
+<procedure name="main">
+<interface/>
+<body>
+<c>*interger</c>
+<l>height:=55</l>
+<l>width:=55</l>
+<c>*string</c>
+<l>name:='liuyan'</l>
+<c>*tuple</c>
+<l>test:=[1,2,3,4]</l>
+<l>test[1]:=6</l>
+<l>test:=[test,test]</l>
+<c>*算子，元祖组合</c>
+<l>tuple_concat(test,test,testout)</l>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>
