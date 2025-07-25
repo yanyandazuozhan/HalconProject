@@ -30,7 +30,7 @@
             <Button x:Name="threshold" Style="{DynamicResource NewRowBtnStyle}" Width="126" Height="56" Canvas.Left="15" Canvas.Top="198" Content="阈值提取"
                     Command="{Binding ThreSholdCommand}" HorizontalAlignment="Center" VerticalAlignment="Center" ></Button>
             <Label Content="步骤：" FontSize="11" Width="124" Height="26" Canvas.Left="17" Canvas.Top="20" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
-            <Label Content="阈值左侧" Height="30" Width="69" Canvas.Left="9" Canvas.Top="264" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
+            <Label Content="阈值左侧" Height="25" Width="69" Canvas.Left="9" Canvas.Top="264" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
             <Label Content="阈值右侧" Height="25" Width="65" Canvas.Left="85" Canvas.Top="265" HorizontalAlignment="Center" VerticalAlignment="Top"></Label>
             <TextBox HorizontalAlignment="Left" VerticalAlignment="Top" Width="49" Canvas.Left="17" Canvas.Top="292"
                      Text="{Binding yuzhileft}"></TextBox>

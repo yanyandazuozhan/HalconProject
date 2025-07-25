@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|d:\\liuyan\\project\\halconproject\\c#_halcon\\halconwpf_heisi _mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|d:\\liuyan\\project\\halconproject\\c#_halcon\\halconwpf_heisi _mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{13E526E7-3B58-413D-B9C0-854F20D7F5E8}|halconwpf01.csproj|solutionrelative:mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -35,13 +39,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:40:01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
               "ToolTip": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\halconwpf_heisi _mvvm\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAywEYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAwEkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T02:48:24.477Z",
               "EditorCaption": ""

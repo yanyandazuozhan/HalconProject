@@ -284,6 +284,7 @@
         <Setter Property="FontSize" Value="14"></Setter>
         <Setter Property="FontStyle" Value="Normal"></Setter>
     </Style>
+    
     <Style x:Key="TBGridStyle" TargetType="{x:Type TextBox}">
         <Setter Property="Template">
             <Setter.Value>

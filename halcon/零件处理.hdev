@@ -4,7 +4,10 @@
 <interface/>
 <body>
 <l>read_image (Image, 'D:/Desktop/文档记录/图片分析/零件图片.png')</l>
-<l>threshold (Image, Regions, 191, 255)</l>
+<l>threshold (Image, Regions1, 93, 255)</l>
+<l>connection(Regions1,crs)</l>
+<l>select_shape (crs, SelectedRegions, ['width','height'], 'and', [17,17], [38,38.])</l>
+<l>region_features(SelectedRegions,'area',Value)</l>
 </body>
 <docu id="main">
 <parameters/>
