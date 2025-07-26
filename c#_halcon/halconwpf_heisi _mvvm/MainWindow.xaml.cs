@@ -28,7 +28,6 @@ namespace halconwpf01
             InitializeComponent();
            this.DataContext = mvm;
             mvm.halconControl = Hwin;
-
         }
 
 

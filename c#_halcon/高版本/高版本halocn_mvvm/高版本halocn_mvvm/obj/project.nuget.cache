@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oB8gcTS4xEo=",
+  "dgSpecHash": "vQHDh++jQahpVBSPKWBLRZogETV+FclgyW3/Gw7Z+yZ9hmlf6L7Dwcu5417sRAtZ6YKEDBA/PtXwXkRrkqtaUg==",
   "success": true,
-  "projectFilePath": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj",
+  "projectFilePath": "E:\\c#project\\shang_wei_ji\\HalconProject\\c#_halcon\\高版本\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\halcondotnet\\19.11.0\\halcondotnet.19.11.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",

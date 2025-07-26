@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\liuyan\\project\\HalconProject\\c#_halcon\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj": {}
+    "E:\\c#project\\shang_wei_ji\\HalconProject\\c#_halcon\\高版本\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj": {}
   },
   "projects": {
-    "D:\\liuyan\\project\\HalconProject\\c#_halcon\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj": {
+    "E:\\c#project\\shang_wei_ji\\HalconProject\\c#_halcon\\高版本\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj",
+        "projectUniqueName": "E:\\c#project\\shang_wei_ji\\HalconProject\\c#_halcon\\高版本\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj",
         "projectName": "高版本halocn_mvvm",
-        "projectPath": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj",
+        "projectPath": "E:\\c#project\\shang_wei_ji\\HalconProject\\c#_halcon\\高版本\\高版本halocn_mvvm\\高版本halocn_mvvm\\高版本halocn_mvvm.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\liuyan\\project\\HalconProject\\c#_halcon\\高版本halocn_mvvm\\高版本halocn_mvvm\\obj\\",
+        "outputPath": "E:\\c#project\\shang_wei_ji\\HalconProject\\c#_halcon\\高版本\\高版本halocn_mvvm\\高版本halocn_mvvm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\liuyan\\VisualStudio\\2022\\sdk\\NuGetPackages"
+          "E:\\c#project\\devExpress\\Components\\Offline Packages",
+          "D:\\software\\c#project\\tool\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +28,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "E:\\c#project\\devExpress\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +42,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -82,7 +80,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

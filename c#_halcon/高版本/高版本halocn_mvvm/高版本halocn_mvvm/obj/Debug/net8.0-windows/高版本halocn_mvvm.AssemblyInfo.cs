@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("高版本halocn_mvvm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3957621faf7fbf97001211b2bff6e6c6ec3ba595")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcc3b2b5165a83e0e6279e044e06d7b2fbf266d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("高版本halocn_mvvm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("高版本halocn_mvvm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
