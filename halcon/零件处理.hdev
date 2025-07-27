@@ -3,7 +3,7 @@
 <procedure name="main">
 <interface/>
 <body>
-<l>read_image (Image, 'D:/Desktop/文档记录/图片分析/零件图片.png')</l>
+<l>read_image (Image, 'D:/Desktop/文档记录/图片分析/圆形零件.png')</l>
 <l>threshold (Image, Regions1, 93, 255)</l>
 <l>connection(Regions1,crs)</l>
 <l>select_shape (crs, SelectedRegions, ['width','height'], 'and', [17,17], [38,38.])</l>

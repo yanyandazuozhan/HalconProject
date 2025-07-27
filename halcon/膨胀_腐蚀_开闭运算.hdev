@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.2" halcon_version="23.05.0.0">
+<procedure name="main">
+<interface/>
+<body>
+<l>read_image (Image, 'D:/Desktop/文档记录/图片分析/板子图片.png')</l>
+<c>*面</c>
+<l>threshold (Image, Regions, 89, 255)</l>
+<c>*线</c>
+<l>*edges_color_sub_pix(Image,Edges,'canny',1, 20, 40)</l>
+<c>*膨胀、腐蚀、开运算闭运算</c>
+<c>*膨胀</c>
+<l>*dilation_circle(Regions, RegionDilation, 2)</l>
+<l>*dilation_rectangle1(Regions,RegionDilation1,11, 11)</l>
+<c>*腐蚀</c>
+<l>* erosion_circle(Regions,RegionErosion, 1.5)</l>
+<c>*开运算：先腐蚀去除小的噪点然后膨胀平滑</c>
+<l>opening_circle(Regions,RegionOpening, 3.5)</l>
+<l>opening_rectangle1(Regions,RegionErosion,10,10)</l>
+<c>*闭运算：先膨胀后腐蚀</c>
+<l>closing_circle(Regions,RegionClosing, 3.5)</l>
+<l>closing_rectangle1(Regions,RegionClosing1, 10, 10)</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>
